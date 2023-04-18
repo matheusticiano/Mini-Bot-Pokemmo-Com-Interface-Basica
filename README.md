@@ -1,6 +1,6 @@
 Mini-Bot-Pokemmo O intuito deste bot é para o aprendizado e utilização do pyautogui e pyside6 , bots e macros são sujeitos a ban.
 
-Este é um projeto de bot criado para automatizar algumas tarefas em um jogo online.
+Este é um projeto de bot criado para automatizar uma farm no pokemmo.
 
 Sistema de interface básica onde é possivel iniciar, pausar e encerrar o bot.
 
